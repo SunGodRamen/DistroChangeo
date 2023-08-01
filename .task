@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "description": "Create and set up the project repository",
+    "project": "MediaFileDistributor",
+    "due": "2023-08-14T00:00:00Z",
+    "tags": ["setup"]
+  },
+  {
+    "id": 2,
+    "description": "Develop the backend service with a file upload endpoint using TDD",
+    "project": "MediaFileDistributor",
+    "due": "2023-08-15T00:00:00Z",
+    "tags": ["backend", "development", "TDD"]
+  },
+  {
+    "id": 3,
+    "description": "Develop the frontend with a file upload component using TDD",
+    "project": "MediaFileDistributor",
+    "due": "2023-08-16T00:00:00Z",
+    "tags": ["frontend", "development", "TDD"]
+  },
+  {
+    "id": 4,
+    "description": "Integrate Kafka to handle file upload events in the backend service using TDD",
+    "project": "MediaFileDistributor",
+    "due": "2023-08-17T00:00:00Z",
+    "tags": ["backend", "development", "kafka", "TDD"]
+  },
+  {
+    "id": 5,
+    "description": "Develop the CDN simulation using Nginx to distribute static content",
+    "project": "MediaFileDistributor",
+    "due": "2023-08-18T00:00:00Z",
+    "tags": ["nginx", "development"]
+  },
+  {
+    "id": 6,
+    "description": "Modify the frontend to fetch files from the CDN simulation using TDD",
+    "project": "MediaFileDistributor",
+    "due": "2023-08-19T00:00:00Z",
+    "tags": ["frontend", "development", "TDD"]
+  },
+  {
+    "id": 7,
+    "description": "Update the README with project information and instructions",
+    "project": "MediaFileDistributor",
+    "due": "2023-08-20T00:00:00Z",
+    "tags": ["documentation"]
+  },
+  {
+    "id": 8,
+    "description": "Set up a CI/CD pipeline with Jenkins or GitHub Actions",
+    "project": "MediaFileDistributor",
+    "due": "2023-08-21T00:00:00Z",
+    "tags": ["CI/CD"]
+  },
+  {
+    "id": 9,
+    "description": "Deploy the application on a cloud provider using Kubernetes",
+    "project": "MediaFileDistributor",
+    "due": "2023-08-22T00:00:00Z",
+    "tags": ["deployment", "kubernetes"]
+  }
+]
